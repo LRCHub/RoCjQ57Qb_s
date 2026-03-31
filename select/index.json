@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サラマンダー -フータ Cover-",
+  "base_artist": "MILGRAM フータ (CV: ランズベリー・アーサー)",
+  "createdAt": "2026-03-31T13:07:09.451068Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サラマンダー - フータ Cover",
+      "artist": "MILGRAM フータ (CV: ランズベリー・アーサー)",
+      "has_synced": false,
+      "path": "select/pl_01_サラマンダー_-_フータ_Cover_MILGRAM_フータ_(CV__ランズベリー・アーサー).txt"
+    }
+  ]
+}
